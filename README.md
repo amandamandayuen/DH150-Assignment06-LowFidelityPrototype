@@ -16,8 +16,8 @@ The purpose of this low-fidelity prototyping is to see whether the features work
 ### Link to wireframes:
 ### Link to wireflows:
 
-### Task 1: Find the spread of active cases on the interactive map
+### Task 1: Find the spread of active cases in 1) California and in 2) Westwood on the interactive map 
 
-### Task 2: Use Q&A tool to look for mental health related questions or submit users' own question(s)
+### Task 2: Use Q&A tool to look for mental health online call line.
 
-### Task 3: Search for local testing booths information under official resources/announcements page
+### Task 3: Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
