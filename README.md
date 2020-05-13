@@ -26,10 +26,11 @@ https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 ![Task 1.2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows%20testing.JPG)
 ### 3. Link to testing video:
 https://youtu.be/_Aa4YviWTrQ
-#### Notes and Reflection:
+### 4. Notes and Reflection:
 - I though the tester would first zoom in and out of the map (as the first intuition when seeing the map) but she directly “searched” for the location using the search bar tool. During the process, 1) the tester was first confused about whether she could press the “active” label on the info box of the map, and was confused about the filter buttons at the top bar. She did not see the “active” filter button at the beginning.After I explained, she realized that can press the “active” filter button on the top of the map. 2) The tester was also confused about the drop-down filter button and the information box, because I did not draw the full frames out for the two features but only draw the sub-frames. This also remains me of consistency in design as the tester got confused on something that I did not keep consistent.
 - Based on the tester’s interaction, I would make the following changes to the map feature. 1) I would establish a tutorial motion on the map page for everyone new to the app. The tutorial motion would use lead the user to each feature on the page and the steps she/he might go through. For instance, the tutorial motion would first point to the top filter bar and suggest a user to press any of the button filter, such as “active cases” After pressing, the user would find that the map only show the spread of “active cases”. 2) I would consider to add filter buttons too on the info box of the map, which I first intended to only show the information without any interactive element. So when a user presses on the information, it would function as the filter button too. 
 
+  
 
 ## Task 2: 
 ### Use Q&A tool to look for mental health online call line
@@ -39,6 +40,12 @@ https://youtu.be/_Aa4YviWTrQ
 ![Task 2 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows%20testing.jpg)
 ### 3. Link to testing video:
 https://youtu.be/k-KlQjtFpnM
+### 4. Notes and Reflection:
+- The whole process for the second task went mostly smoothly. I noticed that the tester’s interaction process was to first “clicked” the click button of submitting questions, then went back to the main Q&A page to try to search for the questions on the “frequently asked questions”, and lastly was to search for the keywords using the search bar.
+She was able to find the “back” button to go back to previous pages. I did not expect that the tester first went to the “click and submit your question” page. She later explained that she wanted to explore the pages first. The tester was confused about the scrolling bar because she did not know what that was, mainly because I did not draw it well. 
+- If I would revise the prototype, 1) I would first represent the scrolling bar more saliently and recognizable. 2) Then I might try to prompt a user to search for questions to see whether there are similar questions first before submitting his/her own questions. I would also try to create more prototype pages for the live chat page, to ensure that even if a user does not find the questions they want, the live chat could first generate robot responses related to the user’s questions then prompt the user to submit his/her own questions if he/she could not find similar questions. 
+
+
 
 ## Task 3: 
 ### Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
