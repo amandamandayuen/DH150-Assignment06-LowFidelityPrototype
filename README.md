@@ -13,11 +13,11 @@ The three features include 1) __Interactive map/statistic visualization tool__, 
 The purpose of this low-fidelity prototyping is to see whether the features work as I expected and whether a potential user can easily navigate through the features and finds what he/she needs. 
 
 ## Wireframes and Wireflows:
-#### Link to wireframes:
-#### Link to wireflows:
+### Link to wireframes:
+### Link to wireflows:
 
 ### Task 1: Find the spread of active cases on the interactive map
 
 ### Task 2: Use Q&A tool to look for mental health related questions or submit users' own question(s)
 
-### Task 3: Search for local testing booths information under official resources/annoucements page
+### Task 3: Search for local testing booths information under official resources/announcements page
