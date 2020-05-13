@@ -21,13 +21,21 @@ https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 ### Task 1: 
 #### Find the spread of active cases in 1) California and in 2) Westwood on the interactive map
 ![Task 1](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows.jpg)
+##### testing:
+![Task 1.2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows%20testing.JPG)
 #### Link to video:
 
 ### Task 2: 
-#### Use Q&A tool to look for mental health online call line.
+#### Use Q&A tool to look for mental health online call line
+![Task 2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows.jpg)
+##### testing:
+![Task 2 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows%20testing.jpg)
 #### Link to video:
 
 ### Task 3: 
 #### Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
+![Task 3](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%203%20wireflows.jpg)
+##### testing:
+![Task 3 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%203%20wireflows%20testing.jpg)
 #### Link to video:
 https://youtu.be/Dq7mdeKQVTo
