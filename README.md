@@ -26,6 +26,8 @@ https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 ![Task 1.2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows%20testing.JPG)
 ### 3. Link to testing video:
 https://youtu.be/_Aa4YviWTrQ
+#### Notes:
+The 
 
 ## Task 2: 
 ### Use Q&A tool to look for mental health online call line
