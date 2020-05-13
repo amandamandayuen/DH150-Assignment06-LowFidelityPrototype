@@ -25,6 +25,7 @@ https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 ### Testing:
 ![Task 1.2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows%20testing.JPG)
 ### Link to testing video:
+https://youtu.be/_Aa4YviWTrQ
 
 ## Task 2: 
 ### Task: Use Q&A tool to look for mental health online call line
@@ -33,6 +34,7 @@ https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 ### Testing:
 ![Task 2 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows%20testing.jpg)
 ### Link to testing video:
+https://youtu.be/k-KlQjtFpnM
 
 ## Task 3: 
 ### Task: Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
