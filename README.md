@@ -19,7 +19,8 @@ https://drive.google.com/file/d/1qCSsBVd2O8eP-a-zMrd_-u3W7CW4Ve3f/view?usp=shari
 https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 
 ### Task 1: 
-#### Find the spread of active cases in 1) California and in 2) Westwood on the interactive map 
+#### Find the spread of active cases in 1) California and in 2) Westwood on the interactive map
+![Task 1](Task 1 wireflows.jpg)
 #### Link to video:
 
 ### Task 2: 
@@ -29,3 +30,4 @@ https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 ### Task 3: 
 #### Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
 #### Link to video:
+https://youtu.be/Dq7mdeKQVTo
