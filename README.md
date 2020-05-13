@@ -20,7 +20,7 @@ https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 
 ### Task 1: 
 #### Find the spread of active cases in 1) California and in 2) Westwood on the interactive map
-![Task 1](Task 1 wireflows.jpg)
+![Task 1](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows.jpg)
 #### Link to video:
 
 ### Task 2: 
