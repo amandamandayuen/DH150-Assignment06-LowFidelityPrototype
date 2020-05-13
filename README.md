@@ -13,14 +13,19 @@ The three features include 1) __Interactive map/statistic visualization tool__, 
 The purpose of this low-fidelity prototyping is to see whether the features work as I expected and whether a potential user can easily navigate through the features and finds what he/she needs. 
 
 ## Wireframes and Wireflows:
-### Link to wireframes:
+### Link to wireframes: 
+https://drive.google.com/file/d/1qCSsBVd2O8eP-a-zMrd_-u3W7CW4Ve3f/view?usp=sharing 
 ### Link to wireflows:
+https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 
 ### Task 1: 
 #### Find the spread of active cases in 1) California and in 2) Westwood on the interactive map 
+#### Link to video:
 
 ### Task 2: 
 #### Use Q&A tool to look for mental health online call line.
+#### Link to video:
 
 ### Task 3: 
 #### Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
+#### Link to video:
