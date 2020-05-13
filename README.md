@@ -19,28 +19,28 @@ https://drive.google.com/file/d/1qCSsBVd2O8eP-a-zMrd_-u3W7CW4Ve3f/view?usp=shari
 https://drive.google.com/open?id=1fwIKQ_cmXzPWafziY6jiFwJkvFm5pvgG
 
 ## Task 1: 
-### Task: Find the spread of active cases in 1) California and in 2) Westwood on the interactive map
-### Wireflow:
+### Find the spread of active cases in 1) California and in 2) Westwood on the interactive map
+### 1. Wireflow:
 ![Task 1](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows.jpg)
-### Testing:
+### 2. Testing picture of Tester's walkthrough pathway:
 ![Task 1.2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows%20testing.JPG)
-### Link to testing video:
+### 3. Link to testing video:
 https://youtu.be/_Aa4YviWTrQ
 
 ## Task 2: 
-### Task: Use Q&A tool to look for mental health online call line
-### Wireflow:
+### Use Q&A tool to look for mental health online call line
+### 1. Wireflow:
 ![Task 2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows.jpg)
-### Testing:
+### 2. Testing picture of Tester's walkthrough pathway:
 ![Task 2 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows%20testing.jpg)
-### Link to testing video:
+### 3. Link to testing video:
 https://youtu.be/k-KlQjtFpnM
 
 ## Task 3: 
-### Task: Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
-### Wireflow:
+### Search for 1) local testing booths information and 2) restaurants information under official resources/announcements page
+### 1. Wireflow:
 ![Task 3](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%203%20wireflows.jpg)
-### Testing:
+### 2. Testing picture of Tester's walkthrough pathway:
 ![Task 3 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%203%20wireflows%20testing.jpg)
-### Link to testing video:
+### 3. Link to testing video:
 https://youtu.be/Dq7mdeKQVTo
